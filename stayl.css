@@ -1,0 +1,484 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+nav{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.list_item a{
+    padding-left: 30px;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: #333333;
+}
+
+
+.list_item a:hover{
+    color: blue;
+}
+
+
+.list{
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.btn1{
+    padding: 12px 42px;
+    font-weight: 600;
+    font-size: 16px;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;    
+    color: #FFFFFF;
+    border: none;
+}
+
+
+.btn1:hover{
+    color: black;
+    background: yellow;
+}
+
+
+.dada{
+    margin-top: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+
+.dizayn{
+    font-weight: 500;
+    font-size: 65px;
+    color: #333333;
+    margin-top: 115px;
+    margin-bottom: 15px;
+}
+
+
+.bez{
+    font-weight: 600;
+    font-size: 16px;
+    color: #333333;
+}
+
+
+.btn2{
+    padding: 12px 55px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #77B2D3;
+    border-radius: 250px;
+    border: none;
+}
+
+
+.btn3{
+    padding: 12px 23px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #77B2D3;
+    border-radius: 250px;
+    border: none;
+}
+
+
+.btn4{
+    padding: 12px 41px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #77B2D3;
+    border-radius: 250px;
+    border: none;
+}
+
+
+.website{
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-left: 40px;
+}
+
+
+
+.sasasasasa{
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    width: 1170px;
+    height: 260px;
+    margin-left: 175px;
+    margin-bottom: 80px;
+}
+
+
+.bilmoq{
+    font-weight: 700;
+    font-size: 38px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 40px;
+    margin-left: 55px;
+}
+
+
+.olti{
+    font-weight: 800;
+    font-size: 40px;
+    color: #F32C6D;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+
+.yetti{
+    font-weight: 500;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 55px;
+    margin-top: -15px;
+}
+
+
+.wivo{
+    font-weight: 700;
+    font-size: 38px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 120px;
+    margin-bottom: 40px;
+}
+
+
+.ghghg{
+    margin-left: 80px;
+}
+
+
+.reklama{
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background: #77B2D3;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 15px 15px 0px 0px;
+}
+
+
+.carb{
+    margin-top: 110px;
+    margin-left: 70px;
+    height: 380px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    margin-bottom: 40px;
+}   
+
+
+.logo{
+    margin-left: 17px;
+}
+
+
+.boboy{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 50px;
+    margin-top: -23px;
+}
+
+
+.koko{
+    margin-top: 60px;
+    margin-left: 30px;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 24px;
+    color: #F32C6D;
+}
+
+
+.kokoo{
+    margin-top: 145px;
+    margin-left: 30px;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 24px;
+    color: #F32C6D;
+}
+
+
+.btn5{
+    padding: 12px 50px;
+    margin-left: 95px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    border: none;
+    margin-bottom: 90px;
+}
+
+
+.btn5:hover{
+    color: black;
+    background: yellow;
+}
+
+
+.laptop{
+    font-weight: 700;
+    font-size: 38px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-bottom: 25px;
+}
+
+
+.zapolnite{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+}
+
+
+.bnbnbnb{
+    width: 260px;
+    height: 60px;
+    padding-left: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 7px;
+    border: none;
+    margin-left: 30px;
+}
+
+
+.bnbnbnbb{
+    width: 560px;
+    height: 140px;
+    padding-left: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 7px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+
+.ererer{
+    margin-left: 30px;
+}
+
+
+.devid{
+    font-weight: 300;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 26px;
+}
+
+
+.btn6{
+    padding: 12px 50px;
+    margin-left: 30px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    border: none;
+    margin-bottom: 90px;
+}
+
+
+.btn6:hover{
+    color: black;
+    background: yellow;
+}
+
+
+.carbb{
+    width: 570px;
+    height: 520px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    margin-bottom: 100px;
+}
+
+
+.alibaba{
+    margin-left: 28px;
+    margin-top: 25px;
+}
+
+
+.jallod{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 28px;
+    margin-bottom: 25px;
+}
+
+
+.pushtoi{
+    width: 570px;
+    height: 160px;
+    background: #F3F1FE;    
+}
+
+
+.razrat{
+    font-weight: 800;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-left: 28px;
+    padding-top: 21px;
+}
+
+
+.fdfg{
+    margin-left: 28px;
+}
+
+
+.rtrt{
+    display: flex;
+    justify-content: center;
+    margin-top: -87px;
+}
+
+
+.gulbahor{
+    margin-left: 400px;
+    margin-top: -87px;
+}
+
+
+.sistema{
+    font-weight: 800;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 24px;
+    margin-left: 28px;
+}
+
+
+.google{
+    margin-left: 28px;
+}
+
+
+.alibabaa{
+    margin-left: 28px;
+    margin-top: 77px;
+}
+
+
+.sensiemenn{
+    padding-top: 54px;
+    padding-bottom: 7px;
+}
+
+
+.politka{
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration-line: underline;
+    color: #333333;
+}
+
+
+.btm9{
+    padding: 12px 42px;font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    border: none;
+    margin-bottom: 70px;
+}
+
+
+.imformatika{
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 75px;
+    margin-bottom: 15px;
+}
+
+
+.sotish{
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+}
+
+
+.vsex{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+
+.lololo{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
